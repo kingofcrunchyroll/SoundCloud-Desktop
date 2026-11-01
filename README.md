@@ -12,4 +12,4 @@ An unofficial Web Client for SoundCloud
 - Mini Player
 [insert image here]
 <sub>Lets you see what you're currently listening to no matter where you are with Media Controls to seek between songs or pause!
-</details>
+## </details>
