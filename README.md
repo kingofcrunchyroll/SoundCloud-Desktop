@@ -12,7 +12,6 @@ An unofficial Web Client for SoundCloud
 ###### Lets your friends see what song you're currently listening to! Similar to what Spotify does.
 
 - System Tray Support
-
 ###### Instead of stopping your music when you close the app, it will go into the System Tray! Keeping your music playing in the background!
 
 - Mini Player
