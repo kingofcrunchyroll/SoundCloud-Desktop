@@ -4,7 +4,7 @@ An unofficial Web Client for SoundCloud
 > This project is NOT affiliated with SoundCloud or their Products.
 
 ## <details><summary>Features</summary>
-## - Discord Rich Presence
+### Discord Rich Presence
 [insert image here]
 <sub>Lets your friends see what song you're currently listening to! Similar to what Spotify does.</sub>
 - System Tray Support
