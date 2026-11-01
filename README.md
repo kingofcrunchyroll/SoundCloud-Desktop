@@ -3,7 +3,7 @@ An unofficial Web Client for SoundCloud
 > [!IMPORTANT]
 > This project is NOT affiliated with SoundCloud or their Products.
 
-# Features <summary>
+# Features <details>
 - Discord Rich Presence
 [insert image here]
 <sub>Lets your friends see what song you're currently listening to! Similar to what Spotify does.</sub>
@@ -12,4 +12,4 @@ An unofficial Web Client for SoundCloud
 - Mini Player
 [insert image here]
 <sub>Lets you see what you're currently listening to no matter where you are with Media Controls to seek between songs or pause!
-</summary>
+</details>
