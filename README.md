@@ -3,7 +3,8 @@ An unofficial Web Client for SoundCloud
 > [!IMPORTANT]
 > This project is NOT affiliated with SoundCloud or their Products.
 
-<details><summary><h1>Features</summary>
+<details><summary><header>Features</summary>
+    
 ## Discord Rich Presence
 
 [insert image here]
