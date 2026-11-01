@@ -1,5 +1,5 @@
 # SoundCloud Desktop <img src="https://cdn.worldvectorlogo.com/logos/soundcloud-icon-1.svg" alt="logo" width="48" align="absmiddle">
-An unofficial Web Client for SoundCloud
+An unofficial Desktop Application for SoundCloud using WebView.
 > [!IMPORTANT]
 > This project is NOT affiliated with SoundCloud or their Products.
 
