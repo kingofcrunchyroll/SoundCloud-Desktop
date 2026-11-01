@@ -3,18 +3,18 @@ An unofficial Web Client for SoundCloud
 > [!IMPORTANT]
 > This project is NOT affiliated with SoundCloud or their Products.
 
-<h2>Features</h2>
+# Features
     
-- Discord Rich Presence
+## Discord Rich Presence
 
 [insert image here]
 
 ###### Lets your friends see what song you're currently listening to! Similar to what Spotify does.
 
-- System Tray Support
+## System Tray Support
 ###### Instead of stopping your music when you close the app, it will go into the System Tray! Keeping your music playing in the background!
 
-- Mini Player
+## Mini Player
 
 [insert image here]
 
