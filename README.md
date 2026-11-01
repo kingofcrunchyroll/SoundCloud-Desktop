@@ -1,5 +1,5 @@
 # SoundCloud Desktop <img src="https://cdn.worldvectorlogo.com/logos/soundcloud-icon-1.svg" alt="logo" width="48" align="absmiddle">
-An unofficial Desktop Application for SoundCloud using WebView.
+An unofficial Desktop App for SoundCloud powered by WebView2
 > [!IMPORTANT]
 > This project is NOT affiliated with SoundCloud or their Products.
 
@@ -22,9 +22,9 @@ Instead of stopping your music when you close the app, it will go into the Syste
 ###### Lets you see what you're currently listening to no matter where you are, with media controls to seek between songs or pause!
 
 > [!CAUTION]
-> This Application has only been tested on an **AMD x64** Machine running Windows 11. It is uncomfirmed whether it works on **x86** or **arm32** as of now.
+> This Application has only been tested on an **AMD x64** System running Windows 11. It is unconfirmed whether it works on **x86** or **arm32** as of now.
 
 > [!NOTE]
-> This project is heavily AI Assisted due to my only knowledge in C# mainly being used in Unity Game Modding. **I** myself am unfamiliar with Web Based Applications.
+> This project is heavily AI-assisted. My C# experience has primarily been in Unity game modding, so I am still learning about Desktop Applications built around Web Technologies.
 > 
 > My Contribution is Building, Testing and Tweaking the Application and Parts of the code. I was also the one to make the MSI Installer for this Application.
