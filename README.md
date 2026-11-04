@@ -1,7 +1,7 @@
 # SoundCloud Desktop <img src="https://cdn.worldvectorlogo.com/logos/soundcloud-icon-1.svg" alt="logo" width="48" align="absmiddle">
 An unofficial Desktop App for SoundCloud powered by WebView2
 > [!IMPORTANT]
-> This project is an independent project and is not affiliated with, endorsed by, or sponsored by SoundCloud.
+> This is an independent project and is not affiliated with, endorsed by, or sponsored by SoundCloud.
 
 # Features
 
